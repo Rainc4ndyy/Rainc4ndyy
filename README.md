@@ -15,5 +15,5 @@
    3. I speak fluent C/C++, Rust and JS
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/azukee/userpagetemplate/master/generated/overview.svg#gh-dark-mode-only" alt="my github stats" width="450"/>
+<img src="https://raw.githubusercontent.com/rainc4ndyy/userpagetemplate/master/generated/overview.svg#gh-dark-mode-only" alt="my github stats" width="450"/>
 </p>
