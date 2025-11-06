@@ -7,7 +7,7 @@
    3. College and course subjects.
 
 - 📫 How to reach me:
-   1. Discord: raincandy50mg
+   1. Discord: raincandy_aa
 
 - ⚡ Fun facts:
    1. I'm brazilian;
